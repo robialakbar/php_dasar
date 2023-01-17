@@ -67,3 +67,13 @@ $nama_gelar = "S.Kom";
 
 echo $nama_depan.' '.$nama_tengah.' '.$nama_belakang.' '.$nama_gelar;
 ?>
+
+
+<!-- Belajar Assignment -->
+
+<?php 
+echo "<br><br>";
+var_dump(1 == "1");
+
+var_dump(1 ==="1");
+?> 
