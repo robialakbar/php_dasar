@@ -56,3 +56,14 @@ echo $x * $y;
 echo "<br>";
 echo $y / $x;
 ?>
+
+<!-- Belajar Concate atau Penggabung String -->
+<?php 
+echo "<br><br>";
+$nama_depan = " Robi";
+$nama_tengah = "Al";
+$nama_belakang = "Akbar";
+$nama_gelar = "S.Kom";
+
+echo $nama_depan.' '.$nama_tengah.' '.$nama_belakang.' '.$nama_gelar;
+?>
