@@ -77,3 +77,12 @@ var_dump(1 == "1");
 
 var_dump(1 ==="1");
 ?> 
+
+<!-- Belajar Logika -->
+<?php
+echo "<br><br>";
+$x = 50;
+$y = 20;
+var_dump($x > $y) || ($x < $y);
+var_dump($x > $y) || ($y < $x);
+?>
