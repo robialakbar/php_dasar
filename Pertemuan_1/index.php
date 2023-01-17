@@ -45,4 +45,14 @@ echo "<br>";
 $x = 50;
 $y = 100;
 echo $x + $y;
+echo "<br>";
+echo $x * $y;
+echo "<br>";
+echo $y / $y;
+echo "<br>";
+echo $y - $x;
+echo "<br>";
+echo $x * $y;
+echo "<br>";
+echo $y / $x;
 ?>
