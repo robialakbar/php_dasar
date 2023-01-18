@@ -14,7 +14,7 @@ $o++;
 
 
   //do while
-  $u=10;
+  $u=0;
   do {
     echo "hello World! ";
     $u++;
