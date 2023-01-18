@@ -11,7 +11,14 @@
 echo "Hello World! <br>";
 $o++;
   }
+
+
   //do while
+  $u=10;
+  do {
+    echo "hello World! ";
+    $u++;
+  } while($u<5);
   //foreach : pengulangan khusus array
 
 ?>
